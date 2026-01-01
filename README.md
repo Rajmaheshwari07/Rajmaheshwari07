@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Raj Maheshwari  
 
+🎓 Computer Science Student | 💻 Aspiring Software Developer  
+🚀 Passionate about Coding, Problem Solving & Building Real-World Projects  
 
-**Rajmaheshwari07/Rajmaheshwari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💡 Strong interest in **Software Development & DSA**
+- 🔍 Currently improving problem-solving skills using **Java**
+- 🌱 Learning **Web Development & GitHub**
+- 🎯 Goal: Become a skilled **Software Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+- Java  
+- C  , Python
+- HTML, CSS  
+
+**Tools & Technologies:**  
+- Git & GitHub  
+- VS Code
+- MySQL (Basic)
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Web Development (Frontend)  
+- Git & Open Source  
+
+---
+
+## 🤝 Looking to Collaborate On
+- Beginner-friendly open-source projects  
+- Java-based applications  
+- Web development projects  
+
+---
+
+## 💬 Ask Me About
+- Java basics  
+- DSA preparation  
+- Git & GitHub  
+- HTML / CSS  / JS
+
+---
+
+## 📫 Contact Me
+- 📧 Email: maheshwarirajan63@gmail.com
+- 💻 GitHub: [@Rajmaheshwari07](https://github.com/Rajmaheshwari07)
+
+---
+
+## ⚡ Fun Fact
+I believe consistency beats talent 🚀  
 
